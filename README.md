@@ -1,4 +1,4 @@
-# Olá, eu sou Domingos!
+# Hello, I'm Gabriel!
 
   <div>
   <a href="https://github.com/Gabriel151324">
