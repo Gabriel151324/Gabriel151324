@@ -64,18 +64,6 @@ Domino a base, aplico tecnologia moderna e uso **IA como alavanca**, não como m
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gafzin-Dev&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gafzin-Dev&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Contato
 
 📧 **Email**: gabriel.aguiar.codes@gmail.com  
